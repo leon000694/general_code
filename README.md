@@ -5,6 +5,6 @@
 - Please advise to me anything, thanks.
 
 <!---
-leon000694/leon000694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+leon000694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
