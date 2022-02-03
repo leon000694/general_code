@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(
 	page_title='M13資訊交流網頁',
 	page_icon='random',
-	layout='wide', #centered
+	layout='wide', #or centered
 	initial_sidebar_state='expanded')
 
 st.title('M13 資訊交流網頁')
