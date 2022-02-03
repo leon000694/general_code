@@ -1,5 +1,5 @@
 - Hi, I’m leon hsu/
-- 👀 I’m interested in automation, so I’m currently learning Python language.
+- I’m interested in automation, so I’m currently learning Python language.
 - I'm a new guy in computer scientific realm. Please advise to me anything, thanks.
 
 <!---
